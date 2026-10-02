@@ -1,0 +1,15 @@
+h1, h2, h3, h4, h5, h6 {
+    color: blue;
+    font-size: 20px;
+}
+h1,h2,h3 {
+    background-color: red;
+    border: 2px solid black;
+}
+p {
+    color: green;
+    font-size: 20px;
+}
+body {
+    background-color: bisque;
+}
